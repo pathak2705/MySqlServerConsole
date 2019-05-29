@@ -1,0 +1,3 @@
+                    MySql Server Console
+
+An easy and user friendly interface to MySql Server made using python and Tkinter. It provides login iterface to the database and provies hassle-free interaction with the database. Sql queries can be performed in easiest ways and creating databases and tables is a click away task. A user can perform every MySql task here but with friendly interface and comfortable environment.
